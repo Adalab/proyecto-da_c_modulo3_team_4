@@ -3,6 +3,10 @@ import mysql.connector
 from sqlalchemy import create_engine
 import pymysql
 
+# Extracción de datos (EXTRACT)
+
+datos_clientes = pd.csv("MODULO 3 TRANSFORMACION DATOS/TEMARIO MÓDULO 3/proyecto-da_c_modulo3_team_4/CSV Ejercicio/HR_RAW_DATA.csv")
+
 # =====================
 # CONFIGURACIÓN DE LA BASE DE DATOS
 # =====================
@@ -154,5 +158,3 @@ def proceso_etl():
 
         # Paso 4: Carga
         cargar_datos(tabla, datos_transformados)
-
-
