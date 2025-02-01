@@ -1,5 +1,11 @@
 # Proyecto: Optimización de Talento 🚀
 
+<p align="center">
+  <img src="Captura.PNG" alt="Descripción de la imagen" width="300"/>
+</p>
+
+
+
 ## Descripción 📄
 
 Este proyecto tiene como objetivo analizar y optimizar la gestión del talento en una empresa. Utilizamos un dataset de recursos humanos para realizar diversas transformaciones y análisis de datos, incluyendo la imputación de valores nulos, la homogeneización de columnas y la creación de una base de datos para almacenar la información procesada.
@@ -10,6 +16,10 @@ Este proyecto tiene como objetivo analizar y optimizar la gestión del talento e
 - **df_columnas_renombradas.csv**: Dataset con las columnas renombradas.
 - **df_transformacion_datos.csv**: Dataset con los datos transformados.
 - **README.md**: Este archivo, que describe el proyecto y cómo ejecutarlo.
+
+## Enlace ✨🔗✨
+
+https://www.canva.com/design/DAGdguEBogs/3Rp-qyPSZlZkmR38JxbOOg/view?utm_content=DA[…]hare&utm_medium=link2&utm_source=uniquelinks&utlId=hf049b44bc6
 
 ## Requisitos 🛠️
 
@@ -48,11 +58,13 @@ Este proyecto tiene como objetivo analizar y optimizar la gestión del talento e
 ## Análisis Realizados 📊
 
 - **Distribución de Género**: Análisis de la distribución de género en la empresa.
-- **Imputación de Valores Nulos**: Imputación de valores nulos en variables numéricas y categóricas.
+- **Imputación y Detección de Valores Nulos**: Imputación de valores nulos en variables numéricas y categóricas.
+- **Identificacion y detección Valores Duplicados**: No se detectaron valores duplicados.
 - **Homogeneización de Columnas**: Renombrado y limpieza de nombres de columnas.
 - **Creación de Base de Datos**: Creación de una base de datos MySQL para almacenar la información procesada.
+- **Visualizaciones**: Histplot, Boxplot y Barplot para apoyar los resultados.
 
-## Autoras 👩‍💻
+## Autoras 👩‍💻👑
 
 - Julia Marín
 - Alba Ventas
@@ -62,10 +74,6 @@ Este proyecto tiene como objetivo analizar y optimizar la gestión del talento e
 ## Contribuciones 🤝
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para discutir cualquier cambio que desees realizar.
-
-## Licencia 📜
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## Contacto 📞
 
