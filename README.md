@@ -26,25 +26,24 @@ Este proyecto tiene como objetivo analizar y optimizar la gestión del talento e
 
 1. Clonar el repositorio:
     ```bash
-        git clone git@github.com:Adalab/proyecto-da_c_modulo3_team_4.git
-        ```
+    git clone https://github.com/tu_usuario/tu_repositorio.git
+    ```
 2. Navegar al directorio del proyecto:
     ```bash
-    cd proyecto-da_c_modulo3_team_4
+    cd tu_repositorio
     ```
 3. Instalar las dependencias:
     ```bash
-    pip install pandas numpy matplotlib seaborn scipy mysql-connector-python
+    pip install -r requirements.txt
     ```
-```
-  
+
 ## Ejecución ▶️
-1. Abrir Visual Studio Code:
+
+1. Abrir el notebook en Jupyter:
     ```bash
-    code .
+    jupyter notebook ejercicio_proyecto.ipynb
     ```
-2. Abrir el notebook `ejercicio_proyecto.ipynb` en Visual Studio Code.
-3. Ejecutar las celdas del notebook para realizar las transformaciones y análisis de datos.
+2. Ejecutar las celdas del notebook para realizar las transformaciones y análisis de datos.
 
 ## Análisis Realizados 📊
 
